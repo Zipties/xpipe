@@ -1,0 +1,10 @@
+{
+  "uuid" : "626efae2-dd0d-449f-837b-1ba2b9943759",
+  "name" : "Dashboard",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
