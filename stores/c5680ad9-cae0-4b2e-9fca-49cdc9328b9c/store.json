@@ -1,0 +1,19 @@
+{
+  "type" : "proxmoxVm",
+  "customIp" : null,
+  "port" : 22,
+  "user" : "root",
+  "password" : {
+    "type" : "passwordManager",
+    "key" : "docker"
+  },
+  "identity" : {
+    "type" : "sshAgent",
+    "forwardAgent" : true
+  },
+  "install" : {
+    "storeId" : "1b8fa294-3e1f-4271-a751-4faed7ed8c67"
+  },
+  "vmid" : 112,
+  "displayName" : "dock-homestead"
+}
