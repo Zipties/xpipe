@@ -1,0 +1,10 @@
+{
+  "uuid" : "e4fbf58d-eb09-411a-873b-734c37e378bf",
+  "name" : "plex-lxc",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
