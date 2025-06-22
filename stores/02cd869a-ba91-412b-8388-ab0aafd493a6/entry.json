@@ -1,0 +1,10 @@
+{
+  "uuid" : "02cd869a-ba91-412b-8388-ab0aafd493a6",
+  "name" : "window",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
