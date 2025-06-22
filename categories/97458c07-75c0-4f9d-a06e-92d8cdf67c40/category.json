@@ -1,0 +1,12 @@
+{
+  "uuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "name" : "Default",
+  "parentUuid" : "bfb0b51a-e7a3-4ce4-8878-8d4cb5828d6c",
+  "config" : {
+    "color" : null,
+    "dontAllowScripts" : null,
+    "confirmAllModifications" : null,
+    "sync" : true,
+    "defaultIdentityStore" : null
+  }
+}
