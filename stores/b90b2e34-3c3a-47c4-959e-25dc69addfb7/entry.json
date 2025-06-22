@@ -1,0 +1,10 @@
+{
+  "uuid" : "b90b2e34-3c3a-47c4-959e-25dc69addfb7",
+  "name" : "radios",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
