@@ -1,0 +1,19 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "192.168.45.7",
+  "port" : 22,
+  "user" : "root",
+  "password" : {
+    "type" : "passwordManager",
+    "key" : "proxmox"
+  },
+  "identityStrategy" : {
+    "type" : "sshAgent",
+    "forwardAgent" : true
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false
+}
