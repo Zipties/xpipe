@@ -1,0 +1,15 @@
+{
+  "type" : "proxmoxVm",
+  "customIp" : null,
+  "port" : 22,
+  "user" : null,
+  "password" : null,
+  "identity" : {
+    "type" : "none"
+  },
+  "install" : {
+    "storeId" : "fb7ed1e5-09de-45c2-9f13-38a87df5fc48"
+  },
+  "vmid" : 115,
+  "displayName" : "mint"
+}
