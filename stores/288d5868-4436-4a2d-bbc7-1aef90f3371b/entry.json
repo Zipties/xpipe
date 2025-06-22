@@ -1,0 +1,10 @@
+{
+  "uuid" : "288d5868-4436-4a2d-bbc7-1aef90f3371b",
+  "name" : "deb-tempate",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

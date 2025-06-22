@@ -1,0 +1,15 @@
+{
+  "type" : "proxmoxVm",
+  "customIp" : null,
+  "port" : 22,
+  "user" : null,
+  "password" : null,
+  "identity" : {
+    "type" : "none"
+  },
+  "install" : {
+    "storeId" : "5e878fba-c3b5-4e7d-aad3-3eee9c247652"
+  },
+  "vmid" : 109,
+  "displayName" : "deb-tempate"
+}
