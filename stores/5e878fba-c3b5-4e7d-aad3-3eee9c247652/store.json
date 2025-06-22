@@ -1,0 +1,6 @@
+{
+  "type" : "proxmox",
+  "host" : {
+    "storeId" : "46ef32ea-4a55-40ff-8b4d-688185c2578f"
+  }
+}
