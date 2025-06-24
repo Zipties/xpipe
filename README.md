@@ -33,7 +33,6 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**influxdb**](stores/659a98ee-45f9-4a7a-b0c1-1d180153ac9d)
     - [**pdc**](stores/433bae5e-e592-437f-9ce3-add2d40c895a)
     - [**Services**](stores/39e0302c-db0c-3f3e-bf9e-edbddf541062)
-      - [**Dashboard**](stores/46dea513-50ba-4b06-94f2-d8b8882fa700)
       - [**Dashboard**](stores/012626ff-8cd8-42be-9143-1ca1f558612a)
     - [**urbackup**](stores/12f9d68c-ef6a-47fb-8a6e-3dc48a311f43)
     - [**window**](stores/02cd869a-ba91-412b-8388-ab0aafd493a6)
