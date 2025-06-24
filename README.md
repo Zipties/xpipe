@@ -47,7 +47,6 @@ You can sync with this repository in all XPipe application instances the same wa
 - [**servarr**](stores/46ef32ea-4a55-40ff-8b4d-688185c2578f)
   - [**servarr**](stores/5e878fba-c3b5-4e7d-aad3-3eee9c247652)
     - [**deb-tempate**](stores/288d5868-4436-4a2d-bbc7-1aef90f3371b)
-    - [**docker-lappy**](stores/2bd69373-dce8-46e8-9348-708dae895e31)
     - [**docker-servarr**](stores/45497bd5-66ec-4965-a9ac-df4ba57695ce)
     - [**influxdb**](stores/71de2bee-23a0-43d7-b3b9-61f23e6c6708)
     - [**plex-lxc**](stores/e4fbf58d-eb09-411a-873b-734c37e378bf)
