@@ -1,9 +1,0 @@
-{
-  "type" : "proxmoxContainer",
-  "install" : {
-    "storeId" : "fb7ed1e5-09de-45c2-9f13-38a87df5fc48"
-  },
-  "vmid" : 100,
-  "name" : "influxdb",
-  "identity" : null
-}
