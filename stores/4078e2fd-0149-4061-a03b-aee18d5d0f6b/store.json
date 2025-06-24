@@ -2,14 +2,21 @@
   "type" : "proxmoxVm",
   "customIp" : null,
   "port" : 22,
-  "user" : null,
-  "password" : null,
   "identity" : {
-    "type" : "none"
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : null,
+      "password" : null,
+      "sshIdentity" : null
+    }
   },
+  "forwardX11" : null,
+  "additionalOptions" : null,
+  "dontUseGateway" : null,
   "install" : {
     "storeId" : "5e878fba-c3b5-4e7d-aad3-3eee9c247652"
   },
   "vmid" : 105,
-  "displayName" : "window"
+  "name" : "window"
 }
