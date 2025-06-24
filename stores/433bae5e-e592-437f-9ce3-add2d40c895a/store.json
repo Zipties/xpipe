@@ -1,0 +1,14 @@
+{
+  "type" : "proxmoxVm",
+  "customIp" : null,
+  "port" : 22,
+  "identity" : null,
+  "forwardX11" : false,
+  "additionalOptions" : null,
+  "dontUseGateway" : null,
+  "install" : {
+    "storeId" : "fb7ed1e5-09de-45c2-9f13-38a87df5fc48"
+  },
+  "vmid" : 106,
+  "name" : "pdc"
+}
