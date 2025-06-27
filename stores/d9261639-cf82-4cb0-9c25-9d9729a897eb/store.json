@@ -1,0 +1,14 @@
+{
+  "type" : "proxmoxVm",
+  "customIp" : null,
+  "port" : 22,
+  "identity" : null,
+  "forwardX11" : false,
+  "additionalOptions" : null,
+  "dontUseGateway" : null,
+  "install" : {
+    "storeId" : "1ec60945-769a-4243-bcb3-17813330e4c3"
+  },
+  "vmid" : 116,
+  "name" : "dock-servarr"
+}
