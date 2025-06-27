@@ -1,0 +1,6 @@
+{
+  "type" : "dockerCmd",
+  "host" : {
+    "storeId" : "ec954d6f-e707-4980-a5bb-5713199b9b58"
+  }
+}
