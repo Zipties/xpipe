@@ -1,0 +1,19 @@
+{
+  "type" : "proxmoxVm",
+  "customIp" : null,
+  "port" : 22,
+  "identity" : {
+    "type" : "ref",
+    "ref" : {
+      "storeId" : "6b208234-c915-4daf-96d7-398014ecbcde"
+    }
+  },
+  "forwardX11" : false,
+  "additionalOptions" : null,
+  "dontUseGateway" : false,
+  "install" : {
+    "storeId" : "98ef287d-5335-4d5a-8d72-0f8abcbc621e"
+  },
+  "vmid" : 112,
+  "name" : "dock-homestead"
+}
