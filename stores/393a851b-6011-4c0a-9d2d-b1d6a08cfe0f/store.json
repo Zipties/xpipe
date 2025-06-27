@@ -1,0 +1,8 @@
+{
+  "type" : "tailscaleTailnet",
+  "install" : {
+    "storeId" : "66fd26e9-8a47-49f3-9acd-2a6c6d3a6795"
+  },
+  "tailnet" : "ck.cpa",
+  "account" : "cory@ck.cpa"
+}
