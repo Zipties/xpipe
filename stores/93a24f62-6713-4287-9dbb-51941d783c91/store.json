@@ -1,0 +1,19 @@
+{
+  "type" : "proxmoxVm",
+  "customIp" : null,
+  "port" : 22,
+  "identity" : {
+    "type" : "ref",
+    "ref" : {
+      "storeId" : "6b208234-c915-4daf-96d7-398014ecbcde"
+    }
+  },
+  "forwardX11" : false,
+  "additionalOptions" : null,
+  "dontUseGateway" : false,
+  "install" : {
+    "storeId" : "88b2c11c-563d-4df9-9b2a-58ed81da43ec"
+  },
+  "vmid" : 108,
+  "name" : "dock-lappy"
+}
