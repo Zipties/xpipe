@@ -2,10 +2,15 @@
   "type" : "proxmoxVm",
   "customIp" : null,
   "port" : 22,
-  "identity" : null,
+  "identity" : {
+    "type" : "ref",
+    "ref" : {
+      "storeId" : "6b208234-c915-4daf-96d7-398014ecbcde"
+    }
+  },
   "forwardX11" : false,
   "additionalOptions" : null,
-  "dontUseGateway" : null,
+  "dontUseGateway" : false,
   "install" : {
     "storeId" : "1ec60945-769a-4243-bcb3-17813330e4c3"
   },
