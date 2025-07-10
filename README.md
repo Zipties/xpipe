@@ -39,6 +39,8 @@ You can sync with this repository in all XPipe application instances the same wa
   - [**Proxmox systems**](stores/1ec60945-769a-4243-bcb3-17813330e4c3)
     - [**deb-tempate**](stores/03bc0265-6c0a-409f-839c-6c35c6577af8)
     - [**dock-servarr**](stores/d9261639-cf82-4cb0-9c25-9d9729a897eb)
+      - [**Docker containers**](stores/72b8fe2c-a177-4e40-aa0f-4e12d4284136)
+        - [**default**](stores/0a92eefe-ee43-48c6-813b-eeb0906942fb)
     - [**harvest-servarr**](stores/e28b7531-4368-45db-99c6-5449a3d713ff)
     - [**homeassistant**](stores/b0ce5179-b801-46ba-a3cd-fca37e91a2cc)
     - [**plex-lxc**](stores/688d01b8-db15-4ee5-b6d8-76df0a1c5e74)
